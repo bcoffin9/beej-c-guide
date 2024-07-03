@@ -1,0 +1,5 @@
+dortmund 12 4 2 40
+bayernmunchen 11 5 2 38
+bayerleverkusen 11 4 3 37
+tsvhoffenheim 9 7 2 34
+stuttgart 8 10 0 34
